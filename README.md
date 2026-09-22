@@ -61,7 +61,7 @@
 ```ascii
  ╔═════════════════════════════════════════════════════════════════════════════╗
  ║  [ 01 ] CORE ENGINEERING      ───►  Python, C++, C#, JS/TS, Algorithms     ║
- ║  [ 02 ] FLAGSHIP VENTURE      ───►  Co-Architect, Famwareta Ecosystem       ║
+ ║  [ 02 ] FLAGSHIP VENTURE      ───►  Co-Architect, Famwareta Ecosystem      ║
  ║  [ 03 ] CREATIVE DIRECTION    ───►  UI/UX Design, Glassmorphism, Vector    ║
  ║  [ 04 ] SYSTEM INFRASTRUCTURE ───►  Linux Ubuntu, Digital Privacy, V2Ray   ║
  ╚═════════════════════════════════════════════════════════════════════════════╝
