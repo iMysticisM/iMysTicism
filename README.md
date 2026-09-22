@@ -1,13 +1,14 @@
 <!--
   =============================================================================
   METADATA FOR SEARCH ENGINE OPTIMIZATION (SEO) & DEVELOPER DISCOVERY:
-  Author: Erfan Dehghani (@iMysTicism)
+  Author: Erfan Dehghani (@iMysticisM)
   Title: Software & AI Developer | Co-Architect, Famwareta Ecosystem | Creative Technologist
-  Keywords: Erfan Dehghani, iMysTicism, Famwareta, Famwareta.ir, Software Developer, AI Engineer, 
-            Creative Technologist, UI/UX Designer, Python, C++, C#, TypeScript, WordPress, 
-            Elementor Pro, Linux Ubuntu, V2Ray Core, Hiddify, Digital Privacy Architecture, Web Architecture
+  Keywords: Erfan Dehghani, iMysticisM, Famwareta, Famwareta.ir, FamwaretaVPN, Software Developer, 
+            AI Engineer, Creative Technologist, UI/UX Designer, Python, C++, C#, TypeScript, 
+            WordPress, Elementor Pro, Linux Ubuntu, V2Ray Core, Hiddify, Digital Privacy Architecture, 
+            VPN Network, High Speed VPN, Censorship Circumvention
   Website: https://famwareta.ir
-  Telegram: https://t.me/iMysTicism | https://t.me/FamwaretaCommunity | https://t.me/FamwaretaVPN
+  Telegram: https://t.me/iMysticisM | https://t.me/FamwaretaCommunity | https://t.me/FamwaretaVPN
   Instagram: https://instagram.com/imysticism
   =============================================================================
 -->
@@ -34,8 +35,8 @@
       <img src="https://img.shields.io/badge/Platform-Famwareta.ir-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117" alt="Famwareta Official Website" />
     </a>
     &nbsp;
-    <a href="https://t.me/iMysTicism" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Telegram-@iMysTicism-161B22?style=for-the-badge&logo=telegram&logoColor=58A6FF&labelColor=0D1117" alt="Telegram Direct" />
+    <a href="https://t.me/iMysticisM" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Telegram-@iMysticisM-161B22?style=for-the-badge&logo=telegram&logoColor=58A6FF&labelColor=0D1117" alt="Telegram Direct" />
     </a>
     &nbsp;
     <a href="https://t.me/FamwaretaCommunity" target="_blank" rel="noopener noreferrer">
@@ -43,7 +44,7 @@
     </a>
     &nbsp;
     <a href="https://t.me/FamwaretaVPN" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Famwareta-VPN%20Network-161B22?style=for-the-badge&logo=wireguard&logoColor=3FB950&labelColor=0D1117" alt="Famwareta VPN" />
+      <img src="https://img.shields.io/badge/Famwareta-VPN%20Service-161B22?style=for-the-badge&logo=wireguard&logoColor=3FB950&labelColor=0D1117" alt="Famwareta VPN Service" />
     </a>
     &nbsp;
     <a href="https://instagram.com/imysticism" target="_blank" rel="noopener noreferrer">
@@ -96,7 +97,7 @@
           <hr style="border-color: #21262D;" />
           <h4 style="color: #58A6FF; margin-bottom: 8px;">Core Pillars & Direct Deployments:</h4>
           <ul style="color: #C9D1D9; line-height: 1.6;">
-            <li>🛡️ <b>Secure Networking & Privacy Infrastructure:</b> Distributed routing setups, advanced protocol tunneling (<a href="https://github.com/v2ray/v2ray-core" style="color: #58A6FF;">V2Ray Core</a>, <a href="https://github.com/hiddify" style="color: #3FB950;">Hiddify Ecosystem</a>), and privacy-preserving networking for uninhibited digital access.</li>
+            <li>🛡️ <b>Secure Networking & Privacy Infrastructure:</b> Distributed routing setups, advanced protocol tunneling (<a href="https://github.com/v2ray/v2ray-core" style="color: #58A6FF;">V2Ray Core</a>, <a href="https://github.com/hiddify" style="color: #3FB950;">Hiddify Ecosystem</a>), and high-speed privacy services via <a href="https://t.me/FamwaretaVPN" style="color: #3FB950; font-weight: bold;">@FamwaretaVPN</a>.</li>
             <li>🎨 <b>Creative Agency & Web Architecture:</b> Modern web platforms, custom CMS engineering, component-based UI libraries, and high-impact brand identity.</li>
             <li>👥 <b>Community Hub:</b> Collaborative network powering developers, creatives, and digital freedom enthusiasts.</li>
           </ul>
@@ -105,12 +106,12 @@
               <img src="https://img.shields.io/badge/Official%20Website-Famwareta.ir-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Official Website" />
             </a>
             &nbsp;
-            <a href="https://t.me/FamwaretaCommunity" target="_blank" rel="noopener noreferrer">
-              <img src="https://img.shields.io/badge/Join-Famwareta%20Community-161B22?style=for-the-badge&logo=telegram&logoColor=8957E5" alt="Community Channel" />
+            <a href="https://t.me/FamwaretaVPN" target="_blank" rel="noopener noreferrer">
+              <img src="https://img.shields.io/badge/VPN%20Service-@FamwaretaVPN-161B22?style=for-the-badge&logo=shield&logoColor=3FB950" alt="Famwareta VPN" />
             </a>
             &nbsp;
-            <a href="https://t.me/FamwaretaVPN" target="_blank" rel="noopener noreferrer">
-              <img src="https://img.shields.io/badge/Explore-Famwareta%20Network-161B22?style=for-the-badge&logo=wireguard&logoColor=3FB950" alt="VPN Network" />
+            <a href="https://t.me/FamwaretaCommunity" target="_blank" rel="noopener noreferrer">
+              <img src="https://img.shields.io/badge/Join-Community-161B22?style=for-the-badge&logo=telegram&logoColor=8957E5" alt="Community Channel" />
             </a>
           </p>
         </div>
@@ -176,7 +177,9 @@
 
 ![Privacy Architecture](https://img.shields.io/badge/Digital%20Privacy%20Architecture-161B22?style=flat-square&logo=shield&logoColor=58A6FF&labelColor=0D1117)
 ![Network Routing](https://img.shields.io/badge/Network%20Routing%20%26%20Tunnels-161B22?style=flat-square&logo=wireshark&logoColor=3FB950&labelColor=0D1117)
-![Secure Protocol Tuning](https://img.shields.io/badge/Secure%20Protocol%20Deployment-161B22?style=flat-square&logo=openssh&logoColor=8957E5&labelColor=0D1117)
+<a href="https://t.me/FamwaretaVPN" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Telegram-@FamwaretaVPN-161B22?style=flat-square&logo=telegram&logoColor=3FB950&labelColor=0D1117" alt="FamwaretaVPN Channel" />
+</a>
 
 </div>
 
@@ -189,15 +192,15 @@
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=iMysTicism&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9" alt="Erfan Dehghani GitHub Stats - Languages and Commits" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iMysticisM&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9" alt="Erfan Dehghani GitHub Stats - Languages and Commits" width="100%" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMysTicism&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages Used - Python, C++, TypeScript" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iMysticisM&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages Used - Python, C++, TypeScript" width="100%" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=iMysTicism&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=3FB950&currStreakNum=58A6FF&sideNums=C9D1D9&currStreakLabel=8957E5&sideLabels=8B949E" alt="GitHub Streak Tracking - Erfan Dehghani" width="100%" />
+        <img src="https://streak-stats.demolab.com/?user=iMysticisM&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=3FB950&currStreakNum=58A6FF&sideNums=C9D1D9&currStreakLabel=8957E5&sideLabels=8B949E" alt="GitHub Streak Tracking - Erfan Dehghani" width="100%" />
       </td>
     </tr>
   </table>
@@ -228,10 +231,10 @@
 | Domain Area | Technology Matrix | Architectural Scope | Live References |
 | :--- | :--- | :--- | :--- |
 | **Famwareta Ecosystem** | Full-Stack, CMS, Visual Identity | Hybrid agency architecture, privacy nodes, community hubs. | [Famwareta.ir](https://famwareta.ir) • [@FamwaretaCommunity](https://t.me/FamwaretaCommunity) |
-| **System Utilities & Automation** | Python, C++, C# | Windows process automation, algorithmic utilities, performance scripts. | [iMysTicism Repositories](https://github.com/iMysticisM?tab=repositories) |
+| **System Utilities & Automation** | Python, C++, C# | Windows process automation, algorithmic utilities, performance scripts. | [iMysticisM Repositories](https://github.com/iMysticisM?tab=repositories) |
 | **Web & CMS Architecture** | WordPress, Elementor Pro, CSS3 | Custom themes, component modularity, Core Web Vitals optimization. | [Famwareta Digital Agency](https://famwareta.ir) |
 | **Creative Visual Direction** | Figma, Photoshop, Illustrator | Modern glassmorphism, vector motion, interactive UI prototypes. | [Instagram @imysticism](https://instagram.com/imysticism) |
-| **Digital Privacy & Routing** | Linux (Ubuntu), V2Ray, Hiddify | Censorship circumvention, protocol tunneling, resilient routing. | [v2ray-core](https://github.com/v2ray/v2ray-core) • [Hiddify](https://github.com/hiddify) |
+| **Digital Privacy & VPN Services** | Linux (Ubuntu), V2Ray, Hiddify | Secure censorship-resistant protocol tunneling, privacy infrastructure & high-speed VPN services. | [🛡️ @FamwaretaVPN (Telegram Channel)](https://t.me/FamwaretaVPN) • [v2ray-core](https://github.com/v2ray/v2ray-core) |
 
 </details>
 
@@ -249,16 +252,16 @@ Have an ambitious technical project, privacy infrastructure inquiry, or creative
     <img src="https://img.shields.io/badge/Website-Famwareta.ir-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117" alt="Famwareta Official Website" />
   </a>
   &nbsp;
-  <a href="https://t.me/iMysTicism" target="_blank" rel="noopener noreferrer">
+  <a href="https://t.me/iMysticisM" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-Erfan%20Dehghani-161B22?style=for-the-badge&logo=telegram&logoColor=58A6FF&labelColor=0D1117" alt="Telegram Direct" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/FamwaretaVPN" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-Famwareta%20VPN-161B22?style=for-the-badge&logo=wireguard&logoColor=3FB950&labelColor=0D1117" alt="Famwareta VPN Channel" />
   </a>
   &nbsp;
   <a href="https://t.me/FamwaretaCommunity" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-Famwareta%20Community-161B22?style=for-the-badge&logo=telegram&logoColor=8957E5&labelColor=0D1117" alt="Famwareta Community" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/FamwaretaVPN" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-Famwareta%20VPN-161B22?style=for-the-badge&logo=wireguard&logoColor=3FB950&labelColor=0D1117" alt="Famwareta VPN" />
   </a>
   &nbsp;
   <a href="https://instagram.com/imysticism" target="_blank" rel="noopener noreferrer">
@@ -283,6 +286,6 @@ Have an ambitious technical project, privacy infrastructure inquiry, or creative
     </defs>
   </svg>
   <p align="center">
-    <sub>Crafted with engineering precision by <b>Erfan Dehghani (<a href="https://github.com/iMysticisM">@iMysTicism</a>)</b> • Co-Architect, <a href="https://famwareta.ir">Famwareta Ecosystem</a></sub>
+    <sub>Crafted with engineering precision by <b>Erfan Dehghani (<a href="https://github.com/iMysticisM">@iMysticisM</a>)</b> • Co-Architect, <a href="https://famwareta.ir">Famwareta Ecosystem</a></sub>
   </p>
 </div>
