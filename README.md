@@ -1,32 +1,53 @@
+<!--
+  =============================================================================
+  METADATA FOR SEARCH ENGINE OPTIMIZATION (SEO) & DEVELOPER DISCOVERY:
+  Author: Erfan Dehghani (@iMysTicism)
+  Title: Software & AI Developer | Co-Architect, Famwareta Ecosystem | Creative Technologist
+  Keywords: Erfan Dehghani, iMysTicism, Famwareta, Famwareta.ir, Software Developer, AI Engineer, 
+            Creative Technologist, UI/UX Designer, Python, C++, C#, TypeScript, WordPress, 
+            Elementor Pro, Linux Ubuntu, V2Ray Core, Hiddify, Digital Privacy Architecture, Web Architecture
+  Website: https://famwareta.ir
+  Telegram: https://t.me/iMysTicism | https://t.me/FamwaretaCommunity | https://t.me/FamwaretaVPN
+  Instagram: https://instagram.com/imysticism
+  =============================================================================
+-->
+
 <div align="center">
 
-  <!-- HERO BANNER & IDENTITY -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,3,11,20,30&height=220&section=header&text=Erfan%20Dehghani&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=58A6FF&desc=Software%20%26%20AI%20Developer%20%7C%20Co-Architect%20at%20Famwareta%20%7C%20Creative%20Technologist&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Erfan Dehghani - Header" />
+  <!-- NATIVE HIGH-PERFORMANCE CYBER HERO BANNER -->
+  <img src="https://raw.githubusercontent.com/iMysticisM/iMysTicism/main/assets/banner.svg" width="100%" alt="Erfan Dehghani — Software & AI Developer | Co-Architect, Famwareta Ecosystem" />
 
   <br/>
 
   <!-- DYNAMIC TYPING SVG -->
-  <a href="https://github.com/iMysTicism">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Software+%26+AI+Developer;Co-Architect+%40+Famwareta+Ecosystem;Creative+Technologist+%26+UI%2FUX+Architect;Digital+Privacy+%26+Secure+Infrastructure+Engineer;Bridging+Scalable+Code+%26+High-Fidelity+Aesthetics" alt="Typing SVG" />
+  <a href="https://famwareta.ir" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Software+%26+AI+Developer;Co-Architect%2C+Famwareta+Ecosystem;Creative+Technologist+%26+UI%2FUX+Architect;Digital+Privacy+%26+Secure+Infrastructure+Engineer;Bridging+Scalable+Code+%26+High-Fidelity+Aesthetics" alt="Erfan Dehghani Tech Taxonomy" />
   </a>
 
   <p align="center">
     <b>Bridging the gap between software engineering, scalable digital ecosystems, and high-fidelity visual aesthetics.</b>
   </p>
 
-  <!-- QUICK ACTION BADGES -->
+  <!-- QUICK ACTION & SOCIAL BADGES -->
   <p align="center">
-    <a href="https://t.me/iMysTicism">
-      <img src="https://img.shields.io/badge/Telegram-@iMysTicism-161B22?style=for-the-badge&logo=telegram&logoColor=58A6FF&labelColor=0D1117" alt="Telegram" />
+    <a href="https://famwareta.ir" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Platform-Famwareta.ir-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117" alt="Famwareta Official Website" />
     </a>
-    <a href="https://t.me/FamwaretaCommunity">
+    &nbsp;
+    <a href="https://t.me/iMysTicism" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Telegram-@iMysTicism-161B22?style=for-the-badge&logo=telegram&logoColor=58A6FF&labelColor=0D1117" alt="Telegram Direct" />
+    </a>
+    &nbsp;
+    <a href="https://t.me/FamwaretaCommunity" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Famwareta-Community-161B22?style=for-the-badge&logo=telegram&logoColor=8957E5&labelColor=0D1117" alt="Famwareta Community" />
     </a>
-    <a href="https://t.me/FamwaretaVPN">
-      <img src="https://img.shields.io/badge/Famwareta-VPN%20Network-161B22?style=for-the-badge&logo=shield&logoColor=3FB950&labelColor=0D1117" alt="Famwareta VPN" />
+    &nbsp;
+    <a href="https://t.me/FamwaretaVPN" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Famwareta-VPN%20Network-161B22?style=for-the-badge&logo=wireguard&logoColor=3FB950&labelColor=0D1117" alt="Famwareta VPN" />
     </a>
-    <a href="https://instagram.com/imysticism">
-      <img src="https://img.shields.io/badge/Instagram-@imysticism-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" alt="Instagram" />
+    &nbsp;
+    <a href="https://instagram.com/imysticism" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Instagram-@imysticism-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" alt="Instagram Profile" />
     </a>
   </p>
 
@@ -39,7 +60,7 @@
 ```ascii
  ╔═════════════════════════════════════════════════════════════════════════════╗
  ║  [ 01 ] CORE ENGINEERING      ───►  Python, C++, C#, JS/TS, Algorithms     ║
- ║  [ 02 ] FLAGSHIP VENTURE      ───►  Co-Architect @ Famwareta Ecosystem     ║
+ ║  [ 02 ] FLAGSHIP VENTURE      ───►  Co-Architect, Famwareta Ecosystem       ║
  ║  [ 03 ] CREATIVE DIRECTION    ───►  UI/UX Design, Glassmorphism, Vector    ║
  ║  [ 04 ] SYSTEM INFRASTRUCTURE ───►  Linux Ubuntu, Digital Privacy, V2Ray   ║
  ╚═════════════════════════════════════════════════════════════════════════════╝
@@ -47,13 +68,22 @@
 
 ---
 
-<!-- FLAGSHIP SHOWCASE: FAMWARETA -->
+<!-- FLAGSHIP SHOWCASE: FAMWARETA WITH AUTHENTIC LOGO -->
 ### ⚡ Flagship Venture — The Famwareta Ecosystem
 
 <div align="center">
   <table>
     <tr>
-      <td width="850" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 10px; padding: 22px;">
+      <td width="150" align="center" valign="middle" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 12px 0 0 12px; padding: 20px;">
+        <a href="https://famwareta.ir" target="_blank" rel="noopener noreferrer">
+          <img src="https://raw.githubusercontent.com/iMysticisM/iMysTicism/main/assets/famwareta-logo.png" width="120" height="120" style="border-radius: 18px; box-shadow: 0 0 25px rgba(137, 87, 229, 0.45);" alt="Famwareta Official Logo" />
+        </a>
+        <br/><br/>
+        <a href="https://famwareta.ir" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/VISIT-Famwareta.ir-58A6FF?style=flat-square&labelColor=161B22" alt="Famwareta Portal" />
+        </a>
+      </td>
+      <td width="700" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 0 12px 12px 0; padding: 22px;">
         <div align="left">
           <p align="right">
             <img src="https://img.shields.io/badge/ROLE-Co--Architect%20%2F%20Core%20Developer-8957E5?style=flat-square&labelColor=161B22" alt="Role" />
@@ -61,22 +91,26 @@
           </p>
           <h2 style="color: #58A6FF; margin-top: -10px;">🌟 Famwareta Ecosystem</h2>
           <p style="color: #C9D1D9; font-size: 15px; line-height: 1.6;">
-            <b>Famwareta</b> is a hybrid digital agency and creative technology ecosystem engineered to deliver cutting-edge software solutions, resilient privacy infrastructure, and modern visual identities. Co-architected from the ground up to unite engineering precision with bespoke digital experiences.
+            <b>Famwareta</b> is a hybrid digital agency and creative technology ecosystem engineered to deliver high-performance software solutions, resilient privacy infrastructure, and bespoke visual branding. Co-architected to unite engineering precision with immersive digital aesthetics.
           </p>
           <hr style="border-color: #21262D;" />
-          <h4 style="color: #58A6FF;">Core Pillars & Direct Deployments:</h4>
-          <ul>
-            <li>🛡️ <b>Secure Networking & Privacy Infrastructure:</b> Distributed routing setups, advanced protocol tunneling (V2Ray, Hiddify Core), and privacy-preserving networking for resilient access.</li>
-            <li>🎨 <b>Creative Agency & Digital Solutions:</b> Modern web architecture, custom CMS builds, component UI libraries, and high-impact branding.</li>
+          <h4 style="color: #58A6FF; margin-bottom: 8px;">Core Pillars & Direct Deployments:</h4>
+          <ul style="color: #C9D1D9; line-height: 1.6;">
+            <li>🛡️ <b>Secure Networking & Privacy Infrastructure:</b> Distributed routing setups, advanced protocol tunneling (<a href="https://github.com/v2ray/v2ray-core" style="color: #58A6FF;">V2Ray Core</a>, <a href="https://github.com/hiddify" style="color: #3FB950;">Hiddify Ecosystem</a>), and privacy-preserving networking for uninhibited digital access.</li>
+            <li>🎨 <b>Creative Agency & Web Architecture:</b> Modern web platforms, custom CMS engineering, component-based UI libraries, and high-impact brand identity.</li>
             <li>👥 <b>Community Hub:</b> Collaborative network powering developers, creatives, and digital freedom enthusiasts.</li>
           </ul>
-          <p align="center" style="margin-top: 15px;">
-            <a href="https://t.me/FamwaretaCommunity">
-              <img src="https://img.shields.io/badge/Join-Famwareta%20Community-161B22?style=for-the-badge&logo=telegram&logoColor=58A6FF" alt="Community" />
+          <p align="center" style="margin-top: 18px;">
+            <a href="https://famwareta.ir" target="_blank" rel="noopener noreferrer">
+              <img src="https://img.shields.io/badge/Official%20Website-Famwareta.ir-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Official Website" />
             </a>
             &nbsp;
-            <a href="https://t.me/FamwaretaVPN">
-              <img src="https://img.shields.io/badge/Explore-Famwareta%20Network-161B22?style=for-the-badge&logo=wireguard&logoColor=3FB950" alt="VPN" />
+            <a href="https://t.me/FamwaretaCommunity" target="_blank" rel="noopener noreferrer">
+              <img src="https://img.shields.io/badge/Join-Famwareta%20Community-161B22?style=for-the-badge&logo=telegram&logoColor=8957E5" alt="Community Channel" />
+            </a>
+            &nbsp;
+            <a href="https://t.me/FamwaretaVPN" target="_blank" rel="noopener noreferrer">
+              <img src="https://img.shields.io/badge/Explore-Famwareta%20Network-161B22?style=for-the-badge&logo=wireguard&logoColor=3FB950" alt="VPN Network" />
             </a>
           </p>
         </div>
@@ -133,8 +167,12 @@
 #### 04. Infrastructure, Systems & Digital Privacy
 ![Linux Ubuntu](https://img.shields.io/badge/Linux%20Ubuntu-161B22?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![Windows Tuning](https://img.shields.io/badge/Windows%20Optimization-161B22?style=for-the-badge&logo=windows&logoColor=0078D6)
-![V2Ray](https://img.shields.io/badge/V2Ray%20Core-161B22?style=for-the-badge&logo=virtualbox&logoColor=58A6FF)
-![Hiddify](https://img.shields.io/badge/Hiddify%20Infrastructure-161B22?style=for-the-badge&logo=fastapi&logoColor=3FB950)
+<a href="https://github.com/v2ray/v2ray-core" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/iMysticisM/iMysTicism/main/assets/v2ray-badge.svg" height="28" alt="Official V2Ray Core" />
+</a>
+<a href="https://github.com/hiddify" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/iMysticisM/iMysTicism/main/assets/hiddify-badge.svg" height="28" alt="Official Hiddify Ecosystem" />
+</a>
 
 ![Privacy Architecture](https://img.shields.io/badge/Digital%20Privacy%20Architecture-161B22?style=flat-square&logo=shield&logoColor=58A6FF&labelColor=0D1117)
 ![Network Routing](https://img.shields.io/badge/Network%20Routing%20%26%20Tunnels-161B22?style=flat-square&logo=wireshark&logoColor=3FB950&labelColor=0D1117)
@@ -151,15 +189,15 @@
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=iMysTicism&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9" alt="Erfan's GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=iMysTicism&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9" alt="Erfan Dehghani GitHub Stats - Languages and Commits" width="100%" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMysTicism&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMysTicism&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages Used - Python, C++, TypeScript" width="100%" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=iMysTicism&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=3FB950&currStreakNum=58A6FF&sideNums=C9D1D9&currStreakLabel=8957E5&sideLabels=8B949E" alt="GitHub Streak" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=iMysTicism&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=3FB950&currStreakNum=58A6FF&sideNums=C9D1D9&currStreakLabel=8957E5&sideLabels=8B949E" alt="GitHub Streak Tracking - Erfan Dehghani" width="100%" />
       </td>
     </tr>
   </table>
@@ -172,9 +210,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iMysTicism/iMysTicism/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iMysTicism/iMysTicism/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/iMysTicism/iMysTicism/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iMysticisM/iMysTicism/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iMysticisM/iMysTicism/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/iMysticisM/iMysTicism/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
@@ -184,47 +222,47 @@
 ### 💻 Engineering & Design Focus
 
 <details open>
-<summary><b>🚀 Core Initiatives & Engineering Disciplines</b></summary>
+<summary><b>🚀 Core Initiatives & Technical Competencies</b></summary>
 <br/>
 
-| Focus Area | Core Stack | Implementation Details |
-| :--- | :--- | :--- |
-| **Famwareta Ecosystem** | Infrastructure, CMS, Branding | Scalable digital agency solutions, privacy networking, community nodes. |
-| **System Utilities & Scripting** | Python, C++, C# | Windows process automation, system level tuning, algorithmic scripts. |
-| **Web Architecture** | WordPress, Elementor Pro, CSS3 | Clean responsive architectures, lightweight asset budgets, fast LCP/FID. |
-| **Creative Visual Design** | Figma, Photoshop, Illustrator | Modern glassmorphic interfaces, vector assets, UI design systems. |
-| **Digital Privacy** | Linux, V2Ray, Hiddify | Resilient traffic tunneling, custom routing setups, censorship circumvention. |
+| Domain Area | Technology Matrix | Architectural Scope | Live References |
+| :--- | :--- | :--- | :--- |
+| **Famwareta Ecosystem** | Full-Stack, CMS, Visual Identity | Hybrid agency architecture, privacy nodes, community hubs. | [Famwareta.ir](https://famwareta.ir) • [@FamwaretaCommunity](https://t.me/FamwaretaCommunity) |
+| **System Utilities & Automation** | Python, C++, C# | Windows process automation, algorithmic utilities, performance scripts. | [iMysTicism Repositories](https://github.com/iMysticisM?tab=repositories) |
+| **Web & CMS Architecture** | WordPress, Elementor Pro, CSS3 | Custom themes, component modularity, Core Web Vitals optimization. | [Famwareta Digital Agency](https://famwareta.ir) |
+| **Creative Visual Direction** | Figma, Photoshop, Illustrator | Modern glassmorphism, vector motion, interactive UI prototypes. | [Instagram @imysticism](https://instagram.com/imysticism) |
+| **Digital Privacy & Routing** | Linux (Ubuntu), V2Ray, Hiddify | Censorship circumvention, protocol tunneling, resilient routing. | [v2ray-core](https://github.com/v2ray/v2ray-core) • [Hiddify](https://github.com/hiddify) |
 
 </details>
 
 ---
 
-<!-- GET IN TOUCH / SOCIALS -->
+<!-- GET IN TOUCH / COMMUNICATIONS -->
 ### 📡 Connect & Communications
 
 <div align="center">
 
-Have a project idea, infrastructure challenge, or creative partnership? Let’s connect.
+Have an ambitious technical project, privacy infrastructure inquiry, or creative venture? Let’s collaborate.
 
 <p align="center">
-  <a href="https://t.me/iMysTicism">
-    <img src="https://img.shields.io/badge/Telegram-Erfan-161B22?style=for-the-badge&logo=telegram&logoColor=58A6FF&labelColor=0D1117" alt="Telegram Direct" />
+  <a href="https://famwareta.ir" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-Famwareta.ir-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117" alt="Famwareta Official Website" />
   </a>
   &nbsp;
-  <a href="https://t.me/FamwaretaCommunity">
+  <a href="https://t.me/iMysTicism" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-Erfan%20Dehghani-161B22?style=for-the-badge&logo=telegram&logoColor=58A6FF&labelColor=0D1117" alt="Telegram Direct" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/FamwaretaCommunity" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-Famwareta%20Community-161B22?style=for-the-badge&logo=telegram&logoColor=8957E5&labelColor=0D1117" alt="Famwareta Community" />
   </a>
   &nbsp;
-  <a href="https://t.me/FamwaretaVPN">
-    <img src="https://img.shields.io/badge/Telegram-Famwareta%20VPN-161B22?style=for-the-badge&logo=shield&logoColor=3FB950&labelColor=0D1117" alt="Famwareta VPN" />
+  <a href="https://t.me/FamwaretaVPN" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-Famwareta%20VPN-161B22?style=for-the-badge&logo=wireguard&logoColor=3FB950&labelColor=0D1117" alt="Famwareta VPN" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/imysticism">
+  <a href="https://instagram.com/imysticism" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-@imysticism-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/iMysTicism">
-    <img src="https://img.shields.io/badge/GitHub-iMysTicism-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="GitHub Profile" />
   </a>
 </p>
 
@@ -233,8 +271,18 @@ Have a project idea, infrastructure challenge, or creative partnership? Let’s 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,3,11,20,30&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <br/>
+  <svg width="100%" height="2" viewBox="0 0 800 2" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <line x1="0" y1="1" x2="800" y2="1" stroke="url(#footer-line-grad)" stroke-width="2"/>
+    <defs>
+      <linearGradient id="footer-line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#161B22"/>
+        <stop offset="50%" stop-color="#58A6FF"/>
+        <stop offset="100%" stop-color="#161B22"/>
+      </linearGradient>
+    </defs>
+  </svg>
   <p align="center">
-    <sub>Crafted with precision by <b>Erfan Dehghani (@iMysTicism)</b> • All systems operational</sub>
+    <sub>Crafted with engineering precision by <b>Erfan Dehghani (<a href="https://github.com/iMysticisM">@iMysTicism</a>)</b> • Co-Architect, <a href="https://famwareta.ir">Famwareta Ecosystem</a></sub>
   </p>
 </div>
