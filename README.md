@@ -69,52 +69,51 @@
 
 ---
 
-<!-- FLAGSHIP SHOWCASE: FAMWARETA WITH AUTHENTIC LOGO -->
+<!-- FLAGSHIP SHOWCASE: FAMWARETA WITH AUTHENTIC LOGO IN TOP-LEFT GRID -->
 ### ⚡ Flagship Venture — The Famwareta Ecosystem
 
 <div align="center">
-  <table>
+  <table width="850">
     <tr>
-      <td width="150" align="center" valign="middle" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 12px 0 0 12px; padding: 20px;">
+      <!-- TOP LEFT: LOGO & TITLE -->
+      <td align="left" valign="middle" style="background-color: #0D1117; border-color: #30363D; padding: 16px 20px;">
         <a href="https://famwareta.ir" target="_blank" rel="noopener noreferrer">
-          <img src="https://raw.githubusercontent.com/iMysticisM/iMysTicism/main/assets/famwareta-logo.png" width="120" height="120" style="border-radius: 18px; box-shadow: 0 0 25px rgba(137, 87, 229, 0.45);" alt="Famwareta Official Logo" />
+          <img src="https://raw.githubusercontent.com/iMysticisM/iMysTicism/main/assets/famwareta-logo.png" width="46" height="46" align="left" style="border-radius: 10px; margin-right: 14px; box-shadow: 0 0 15px rgba(137, 87, 229, 0.45);" alt="Famwareta Official Logo" />
         </a>
-        <br/><br/>
-        <a href="https://famwareta.ir" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/VISIT-Famwareta.ir-58A6FF?style=flat-square&labelColor=161B22" alt="Famwareta Portal" />
-        </a>
+        <h2 style="color: #58A6FF; margin: 0; padding-top: 4px; font-size: 22px; border-bottom: none; display: inline-block;">Famwareta Ecosystem</h2>
       </td>
-      <td width="700" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 0 12px 12px 0; padding: 22px;">
-        <div align="left">
-          <p align="right">
-            <img src="https://img.shields.io/badge/ROLE-Co--Architect%20%2F%20Core%20Developer-8957E5?style=flat-square&labelColor=161B22" alt="Role" />
-            <img src="https://img.shields.io/badge/STATUS-Active%20Production-3FB950?style=flat-square&labelColor=161B22" alt="Status" />
-          </p>
-          <h2 style="color: #58A6FF; margin-top: -10px;">🌟 Famwareta Ecosystem</h2>
-          <p style="color: #C9D1D9; font-size: 15px; line-height: 1.6;">
-            <b>Famwareta</b> is a hybrid digital agency and creative technology ecosystem engineered to deliver high-performance software solutions, resilient privacy infrastructure, and bespoke visual branding. Co-architected to unite engineering precision with immersive digital aesthetics.
-          </p>
-          <hr style="border-color: #21262D;" />
-          <h4 style="color: #58A6FF; margin-bottom: 8px;">Core Pillars & Direct Deployments:</h4>
-          <ul style="color: #C9D1D9; line-height: 1.6;">
-            <li>🛡️ <b>Secure Networking & Privacy Infrastructure:</b> Distributed routing setups, advanced protocol tunneling (<a href="https://github.com/v2ray/v2ray-core" style="color: #58A6FF;">V2Ray Core</a>, <a href="https://github.com/hiddify" style="color: #3FB950;">Hiddify Ecosystem</a>), and high-speed privacy services via <a href="https://t.me/FamwaretaVPN" style="color: #3FB950; font-weight: bold;">@FamwaretaVPN</a>.</li>
-            <li>🎨 <b>Creative Agency & Web Architecture:</b> Modern web platforms, custom CMS engineering, component-based UI libraries, and high-impact brand identity.</li>
-            <li>👥 <b>Community Hub:</b> Collaborative network powering developers, creatives, and digital freedom enthusiasts.</li>
-          </ul>
-          <p align="center" style="margin-top: 18px;">
-            <a href="https://famwareta.ir" target="_blank" rel="noopener noreferrer">
-              <img src="https://img.shields.io/badge/Official%20Website-Famwareta.ir-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Official Website" />
-            </a>
-            &nbsp;
-            <a href="https://t.me/FamwaretaVPN" target="_blank" rel="noopener noreferrer">
-              <img src="https://img.shields.io/badge/VPN%20Service-@FamwaretaVPN-161B22?style=for-the-badge&logo=shield&logoColor=3FB950" alt="Famwareta VPN" />
-            </a>
-            &nbsp;
-            <a href="https://t.me/FamwaretaCommunity" target="_blank" rel="noopener noreferrer">
-              <img src="https://img.shields.io/badge/Join-Community-161B22?style=for-the-badge&logo=telegram&logoColor=8957E5" alt="Community Channel" />
-            </a>
-          </p>
-        </div>
+      <!-- TOP RIGHT: ROLE & STATUS BADGES -->
+      <td align="right" valign="middle" style="background-color: #0D1117; border-color: #30363D; padding: 16px 20px;">
+        <img src="https://img.shields.io/badge/ROLE-Co--Architect%20%2F%20Core%20Developer-8957E5?style=flat-square&labelColor=161B22" alt="Role" />
+        <img src="https://img.shields.io/badge/STATUS-Active%20Production-3FB950?style=flat-square&labelColor=161B22" alt="Status" />
+      </td>
+    </tr>
+    <tr>
+      <!-- MAIN BODY: FULL WIDTH (COLSPAN=2) -->
+      <td colspan="2" style="background-color: #0D1117; border-color: #30363D; padding: 22px;">
+        <p style="color: #C9D1D9; font-size: 15px; line-height: 1.6; margin-top: 0;">
+          <b>Famwareta</b> is a hybrid digital agency and creative technology ecosystem engineered to deliver high-performance software solutions, resilient privacy infrastructure, and bespoke visual branding. Co-architected to unite engineering precision with immersive digital aesthetics.
+        </p>
+        <hr style="border-color: #21262D;" />
+        <h4 style="color: #58A6FF; margin-bottom: 8px;">Core Pillars & Direct Deployments:</h4>
+        <ul style="color: #C9D1D9; line-height: 1.6;">
+          <li>🛡️ <b>Secure Networking & Privacy Infrastructure:</b> Distributed routing setups, advanced protocol tunneling (<a href="https://github.com/v2ray/v2ray-core" style="color: #58A6FF;">V2Ray Core</a>, <a href="https://github.com/hiddify" style="color: #3FB950;">Hiddify Ecosystem</a>), and high-speed privacy services via <a href="https://t.me/FamwaretaVPN" style="color: #3FB950; font-weight: bold;">@FamwaretaVPN</a>.</li>
+          <li>🎨 <b>Creative Agency & Web Architecture:</b> Modern web platforms, custom CMS engineering, component-based UI libraries, and high-impact brand identity.</li>
+          <li>👥 <b>Community Hub:</b> Collaborative network powering developers, creatives, and digital freedom enthusiasts.</li>
+        </ul>
+        <p align="center" style="margin-top: 18px;">
+          <a href="https://famwareta.ir" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Official%20Website-Famwareta.ir-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Official Website" />
+          </a>
+          &nbsp;
+          <a href="https://t.me/FamwaretaVPN" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/VPN%20Service-@FamwaretaVPN-161B22?style=for-the-badge&logo=shield&logoColor=3FB950" alt="Famwareta VPN" />
+          </a>
+          &nbsp;
+          <a href="https://t.me/FamwaretaCommunity" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Join-Community-161B22?style=for-the-badge&logo=telegram&logoColor=8957E5" alt="Community Channel" />
+          </a>
+        </p>
       </td>
     </tr>
   </table>
